@@ -1,0 +1,13 @@
+C:\Users\32fos\codefellows\c#-401\lab0607c-\myZoo\myZoo\bin\Debug\netcoreapp3.1\myZoo.exe
+C:\Users\32fos\codefellows\c#-401\lab0607c-\myZoo\myZoo\bin\Debug\netcoreapp3.1\myZoo.deps.json
+C:\Users\32fos\codefellows\c#-401\lab0607c-\myZoo\myZoo\bin\Debug\netcoreapp3.1\myZoo.runtimeconfig.json
+C:\Users\32fos\codefellows\c#-401\lab0607c-\myZoo\myZoo\bin\Debug\netcoreapp3.1\myZoo.runtimeconfig.dev.json
+C:\Users\32fos\codefellows\c#-401\lab0607c-\myZoo\myZoo\bin\Debug\netcoreapp3.1\myZoo.dll
+C:\Users\32fos\codefellows\c#-401\lab0607c-\myZoo\myZoo\bin\Debug\netcoreapp3.1\myZoo.pdb
+C:\Users\32fos\codefellows\c#-401\lab0607c-\myZoo\myZoo\obj\Debug\netcoreapp3.1\myZoo.csproj.AssemblyReference.cache
+C:\Users\32fos\codefellows\c#-401\lab0607c-\myZoo\myZoo\obj\Debug\netcoreapp3.1\myZoo.AssemblyInfoInputs.cache
+C:\Users\32fos\codefellows\c#-401\lab0607c-\myZoo\myZoo\obj\Debug\netcoreapp3.1\myZoo.AssemblyInfo.cs
+C:\Users\32fos\codefellows\c#-401\lab0607c-\myZoo\myZoo\obj\Debug\netcoreapp3.1\myZoo.csproj.CoreCompileInputs.cache
+C:\Users\32fos\codefellows\c#-401\lab0607c-\myZoo\myZoo\obj\Debug\netcoreapp3.1\myZoo.dll
+C:\Users\32fos\codefellows\c#-401\lab0607c-\myZoo\myZoo\obj\Debug\netcoreapp3.1\myZoo.pdb
+C:\Users\32fos\codefellows\c#-401\lab0607c-\myZoo\myZoo\obj\Debug\netcoreapp3.1\myZoo.genruntimeconfig.cache
